@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nivonantenaina45
-- 👀 I’m interested in mobile/web developement 
-- 🌱 I’m currently learning a backend system
+- 👀 I’m interested in mobile/web developement, embeded system
+- 🌱 I’m an electronics and automation engineer 
 
 
 
